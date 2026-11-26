@@ -1,0 +1,39 @@
+
+INICIO / mobile
+  performance: 56
+  accessibility: 98
+  best-practices: 100
+  seo: 100
+  LCP (ms): 4298.610
+  CLS: 0.000
+  TBT (ms): 3021.783
+
+INICIO / desktop
+  performance: 96
+  accessibility: 98
+  best-practices: 100
+  seo: 100
+  LCP (ms): 1092.567
+  CLS: 0.000
+  TBT (ms): 122.000
+
+DETALHE / mobile
+  performance: 56
+  accessibility: 100
+  best-practices: 100
+  seo: 100
+  LCP (ms): 4524.053
+  CLS: 0.000
+  TBT (ms): 1948.442
+
+DETALHE / desktop
+  performance: 95
+  accessibility: 100
+  best-practices: 100
+  seo: 100
+  LCP (ms): 1165.662
+  CLS: 0.000
+  TBT (ms): 140.000
+
+Relatórios válidos: 12/12
+Resumo em artifacts/lighthouse/final-20261126-004425/resumo.txt
